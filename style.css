@@ -1,0 +1,22 @@
+body{
+    background-color: pink;
+}
+.form {
+    padding: 180px;
+    margin-top: 50px;
+    margin-left: 400px;
+    width: 200px;
+    height: 200px;
+    border: 3px solid white;
+    background-color: rgb(206, 106, 122);
+    border-radius: 20px;
+
+}
+#operation {
+    width: 100px;
+    margin-top: 10px;
+}
+
+.result {
+    margin-top: 10px;
+}
